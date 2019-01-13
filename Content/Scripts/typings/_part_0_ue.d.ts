@@ -2176,7 +2176,7 @@ declare class Texture extends UObject {
 	CompressionSettings: TextureCompressionSettings;
 	Filter: TextureFilter;
 	LODGroup: TextureGroup;
-	sRGB: boolean;
+	SRGB: boolean;
 	bUseLegacyGamma: boolean;
 	NeverStream: boolean;
 	bNoTiling: boolean;
@@ -4998,7 +4998,7 @@ declare class Blueprint extends BlueprintCore {
 	Timelines: TimelineTemplate[];
 	InheritableComponentHandler: InheritableComponentHandler;
 	BlueprintType: EBlueprintType;
-	Status: EBlueprintStatus;
+	status: EBlueprintStatus;
 	NewVariables: BPVariableDescription[];
 	CategorySorting: string[];
 	ImplementedInterfaces: BPInterfaceDescription[];
@@ -10254,7 +10254,7 @@ declare class PlayerController extends Controller {
 	ClientRestart(NewPawn: Pawn): void;
 	ClientReset(): void;
 	ClientRepObjRef(UObject: UObject): void;
-	ClientReceiveLocalizedMessage(Message: UnrealEngineClass,Switch: number,RelatedPlayerState_1: PlayerState,RelatedPlayerState_2: PlayerState,OptionalObject: UObject): void;
+	ClientReceiveLocalizedMessage(message: UnrealEngineClass,Switch: number,RelatedPlayerState_1: PlayerState,RelatedPlayerState_2: PlayerState,OptionalObject: UObject): void;
 	ClientPrestreamTextures(ForcedActor: Actor,ForceDuration: number,bEnableStreaming: boolean,CinematicTextureGroups: number): void;
 	ClientPrepareMapChange(LevelName: string,bFirst: boolean,bLast: boolean): void;
 	ClientPlaySoundAtLocation(Sound: SoundBase,Location: Vector,VolumeMultiplier: number,PitchMultiplier: number): void;
@@ -10439,8 +10439,8 @@ declare class Pawn extends Actor {
 	AddControllerRollInput(Val: number): void;
 	AddControllerPitchInput(Val: number): void;
 	static C(Other: UObject | any): Pawn;
-	SendAIMessage(Message: string,MessageSource: UObject,bSuccess: boolean): void;
-	static SendAIMessage(Target: Pawn,Message: string,MessageSource: UObject,bSuccess: boolean): void;
+	SendAIMessage(message: string,MessageSource: UObject,bSuccess: boolean): void;
+	static SendAIMessage(Target: Pawn,message: string,MessageSource: UObject,bSuccess: boolean): void;
 }
 
 declare type ERadialImpulseFalloff = 'RIF_Constant' | 'RIF_Linear' | 'RIF_MAX';
@@ -15500,7 +15500,7 @@ declare class ClothCollisionPrim_SphereConnection {
 }
 
 declare class ClothCollisionPrim_Convex { 
-	Planes: Plane[];
+	planes: Plane[];
 	BoneIndex: number;
 	clone() : ClothCollisionPrim_Convex;
 	static C(Other: UObject | any): ClothCollisionPrim_Convex;
@@ -17589,7 +17589,7 @@ declare class AIBlueprintHelperLibrary extends BlueprintFunctionLibrary {
 	static SpawnAIFromClass(WorldContextObject: UObject,PawnClass: UnrealEngineClass,BehaviorTree: BehaviorTree,Location: Vector,Rotation: Rotator,bNoCollisionFail: boolean): Pawn;
 	static SimpleMoveToLocation(Controller: Controller,Goal: Vector): void;
 	static SimpleMoveToActor(Controller: Controller,Goal: Actor): void;
-	static SendAIMessage(Target: Pawn,Message: string,MessageSource: UObject,bSuccess: boolean): void;
+	static SendAIMessage(Target: Pawn,message: string,MessageSource: UObject,bSuccess: boolean): void;
 	static LockAIResourcesWithAnimation(AnimInstance: AnimInstance,bLockMovement: boolean,LockAILogic: boolean): void;
 	static IsValidAIRotation(Rotation: Rotator): boolean;
 	static IsValidAILocation(Location: Vector): boolean;
@@ -17692,7 +17692,7 @@ declare class UserDefinedStruct extends ScriptStruct {
 	PrimaryStruct: any;
 	ErrorMessage: string;
 	EditorData: UObject;
-	Status: EUserDefinedStructureStatus;
+	status: EUserDefinedStructureStatus;
 	Guid: Guid;
 	static Load(ResourceName: string): UserDefinedStruct;
 	static Find(Outer: UObject, ResourceName: string): UserDefinedStruct;

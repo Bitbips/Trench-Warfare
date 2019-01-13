@@ -373,7 +373,7 @@ declare class EditableMesh extends UObject {
 	SetAllowSpatialDatabase(bInAllowSpatialDatabase: boolean): void;
 	SetAllowCompact(bInAllowCompact: boolean): void;
 	SearchSpatialDatabaseForPolygonsPotentiallyIntersectingLineSegment(LineSegmentStart: Vector,LineSegmentEnd: Vector,OutPolygons?: PolygonID[]): {OutPolygons: PolygonID[]};
-	SearchSpatialDatabaseForPolygonsInVolume(Planes: Plane[],OutPolygons?: PolygonID[]): {OutPolygons: PolygonID[]};
+	SearchSpatialDatabaseForPolygonsInVolume(planes: Plane[],OutPolygons?: PolygonID[]): {OutPolygons: PolygonID[]};
 	RevertInstance(): EditableMesh;
 	Revert(): void;
 	RemovePolygonPerimeterVertices(PolygonID: PolygonID,FirstVertexNumberToRemove: number,NumVerticesToRemove: number,bDeleteOrphanedVertexInstances: boolean): void;
@@ -2933,7 +2933,7 @@ declare class RunebergVR_Pawn extends Pawn {
 	static GetDefaultObject(): RunebergVR_Pawn;
 	static CreateDefaultSubobject(Name: string, Transient?: boolean, Required?: boolean, Abstract?: boolean): RunebergVR_Pawn;
 	RotatePawn(RotationRate: number,XAxisInput: number,YAxisInput: number): void;
-	PrintDebugMessage(Message: string,OverwriteExisting: boolean,Duration: number,Color: Color): void;
+	PrintDebugMessage(message: string,OverwriteExisting: boolean,Duration: number,Color: Color): void;
 	OverridePawnValues(PawnBaseEyeHeight: number,FOV: number,CapsuleHalfHeight: number,CapsuleRadius: number,CapsuleRelativeLocation: Vector,SceneLocation: Vector,LeftControllerLocation: Vector,RightControllerLocation: Vector): void;
 	IsHMDWorn(): boolean;
 	static C(Other: UObject | any): RunebergVR_Pawn;
@@ -3305,7 +3305,7 @@ declare class StomtAPI extends UObject {
 }
 
 declare class StomtPluginWidget extends UserWidget { 
-	Message: string;
+	message: string;
 	EMail: string;
 	UserName: string;
 	UserPassword: string;
@@ -3550,7 +3550,7 @@ declare class TwitchApi extends UObject {
 
 declare class TwitchChannel { 
 	mature: boolean;
-	Status: string;
+	status: string;
 	broadcaster_language: string;
 	Game: string;
 	Language: string;
@@ -3621,8 +3621,8 @@ declare class TwitchUser extends TwitchChannelUser {
 
 declare class TwitchError { 
 	Error: string;
-	Status: number;
-	Message: string;
+	status: number;
+	message: string;
 	clone() : TwitchError;
 	static C(Other: UObject | any): TwitchError;
 }
@@ -4521,7 +4521,7 @@ declare class JavascriptGraphMenuBuilder extends JavascriptMenuBuilder {
 declare type ECanCreateConnectionResponse = 'CONNECT_RESPONSE_MAKE' | 'CONNECT_RESPONSE_DISALLOW' | 'CONNECT_RESPONSE_BREAK_OTHERS_A' | 'CONNECT_RESPONSE_BREAK_OTHERS_B' | 'CONNECT_RESPONSE_BREAK_OTHERS_AB' | 'CONNECT_RESPONSE_MAKE_WITH_CONVERSION_NODE' | 'CONNECT_RESPONSE_MAX';
 declare var ECanCreateConnectionResponse : { CONNECT_RESPONSE_MAKE:'CONNECT_RESPONSE_MAKE',CONNECT_RESPONSE_DISALLOW:'CONNECT_RESPONSE_DISALLOW',CONNECT_RESPONSE_BREAK_OTHERS_A:'CONNECT_RESPONSE_BREAK_OTHERS_A',CONNECT_RESPONSE_BREAK_OTHERS_B:'CONNECT_RESPONSE_BREAK_OTHERS_B',CONNECT_RESPONSE_BREAK_OTHERS_AB:'CONNECT_RESPONSE_BREAK_OTHERS_AB',CONNECT_RESPONSE_MAKE_WITH_CONVERSION_NODE:'CONNECT_RESPONSE_MAKE_WITH_CONVERSION_NODE',CONNECT_RESPONSE_MAX:'CONNECT_RESPONSE_MAX', };
 declare class JavascriptPinConnectionResponse { 
-	Message: string;
+	message: string;
 	Response: ECanCreateConnectionResponse;
 	clone() : JavascriptPinConnectionResponse;
 	static C(Other: UObject | any): JavascriptPinConnectionResponse;

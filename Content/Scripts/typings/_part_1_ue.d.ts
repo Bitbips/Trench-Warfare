@@ -8585,7 +8585,7 @@ declare class MovieSceneSequencePlayer extends UObject {
 	OnStop: UnrealEngineMulticastDelegate<() => void>;
 	OnPause: UnrealEngineMulticastDelegate<() => void>;
 	OnFinished: UnrealEngineMulticastDelegate<() => void>;
-	Status: EMovieScenePlayerStatus;
+	status: EMovieScenePlayerStatus;
 	bReversePlayback: boolean;
 	Sequence: MovieSceneSequence;
 	StartTime: FrameNumber;
