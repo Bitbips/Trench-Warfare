@@ -1,0 +1,814 @@
+﻿Log file open, 01/13/19 01:11:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TrenchWarfare
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.534102
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AjaMedia
+LogPluginManager: Mounting plugin AutoSizeComments
+LogPluginManager: Mounting plugin BlackmagicMedia
+LogPluginManager: Mounting plugin BlueprintJson
+LogPluginManager: Mounting plugin CarSim
+LogPluginManager: Mounting plugin CreaturePackPlugin
+LogPluginManager: Mounting plugin CuteCodeAccess
+LogPluginManager: Mounting plugin DonAINavigation
+LogPluginManager: Mounting plugin UE4EditorCustomize
+LogPluginManager: Mounting plugin FactionsExtension
+LogPluginManager: Mounting plugin GameAnalytics
+LogPluginManager: Mounting plugin GFur
+LogPluginManager: Mounting plugin HapticsManager
+LogPluginManager: Mounting plugin KantanCharts
+LogPluginManager: Mounting plugin LiveLinkMvnPlugin
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin MidiAsset
+LogPluginManager: Mounting plugin MobileUtils
+LogPluginManager: Mounting plugin ModoBridge
+LogPluginManager: Mounting plugin SceneProtocol
+LogPluginManager: Mounting plugin MultiDex
+LogPluginManager: Mounting plugin MultiTask
+LogPluginManager: Mounting plugin PlayFab
+LogPluginManager: Mounting plugin PTMTool
+LogPluginManager: Mounting plugin QtCreatorSourceCodeAccess
+LogPluginManager: Mounting plugin QuickCommands
+LogPluginManager: Mounting plugin RichTextBlockInlineDecorator
+LogPluginManager: Mounting plugin RunebergVRPlugin
+LogPluginManager: Mounting plugin SaveExtension
+LogPluginManager: Mounting plugin SCUE4
+LogPluginManager: Mounting plugin ShadowMocap
+LogPluginManager: Mounting plugin SpiderNavigation
+LogPluginManager: Mounting plugin StomtPlugin
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin ToolbagImporter
+LogPluginManager: Mounting plugin TwitchAuth
+LogPluginManager: Mounting plugin TwitchPlay
+LogPluginManager: Mounting plugin UINavigation
+LogPluginManager: Mounting plugin UnrealJS
+LogPluginManager: Mounting plugin VaRestPlugin
+LogPluginManager: Mounting plugin VaTexAtlasPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebBrowserWidget
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.192s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=ATGolden -epicuserid=2d141095f22d47fa8a76dcefd78ec3a7 -epiclocale=en-US
+LogInit: Base Directory: D:/UE4/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.030s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Engine.ini]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Engine.ini]
+[2019.01.13-00.11.40:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Engine.ini]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Engine.ini]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.13-00.11.40:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Engine.ini]
+[2019.01.13-00.11.40:024][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Engine.ini]
+[2019.01.13-00.11.40:035][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.13-00.11.40:035][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.13-00.11.40:036][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.13-00.11.40:037][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.13-00.11.40:037][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.13-00.11.40:077][  0]LogHAL: Display: Platform has ~ 16 GB [17125457920 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.13-00.11.40:078][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.13-00.11.40:078][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.13-00.11.40:078][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Scalability.ini]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.13-00.11.40:079][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.13-00.11.40:080][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.13-00.11.40:080][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Config/Windows/Engine.ini]
+[2019.01.13-00.11.40:080][  0]LogInit: Computer: DESKTOP-P36VDB1
+[2019.01.13-00.11.40:080][  0]LogInit: User: Filip
+[2019.01.13-00.11.40:080][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.01.13-00.11.40:080][  0]LogInit: High frequency timer resolution =3.613281 MHz
+[2019.01.13-00.11.40:080][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.13-00.11.40:080][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.13-00.11.40:080][  0]LogMemory: Process Physical Memory: 104.97 MB used, 104.97 MB peak
+[2019.01.13-00.11.40:080][  0]LogMemory: Process Virtual Memory: 91.59 MB used, 91.59 MB peak
+[2019.01.13-00.11.40:080][  0]LogMemory: Physical Memory: 4286.26 MB used,  12045.85 MB free, 16332.11 MB total
+[2019.01.13-00.11.40:080][  0]LogMemory: Virtual Memory: 4686.52 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.01.13-00.11.40:111][  0]LogInit: Using OS detected language (en-US).
+[2019.01.13-00.11.40:111][  0]LogInit: Using OS detected locale (en-GB).
+[2019.01.13-00.11.40:112][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.13-00.11.40:427][  0]LogStreaming: Display: Took  0.315s to InitEngineTextLocalization.
+[2019.01.13-00.11.40:427][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.13-00.11.40:480][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.13-00.11.40:480][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.13-00.11.40:648][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.13-00.11.40:648][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.13-00.11.40:724][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.01.13-00.11.40:724][  0]LogD3D11RHI:       6052/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.13-00.11.40:726][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.13-00.11.40:726][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.13-00.11.40:726][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.13-00.11.40:733][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.13-00.11.40:733][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.13-00.11.40:733][  0]LogWindows: EnumDisplayDevices:
+[2019.01.13-00.11.40:733][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.01.13-00.11.40:734][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.01.13-00.11.40:734][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.13-00.11.40:734][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.13-00.11.40:734][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.13-00.11.40:734][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.01.13-00.11.40:734][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.01.13-00.11.40:734][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.01.13-00.11.40:734][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.13-00.11.40:783][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.13-00.11.40:813][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.13-00.11.41:217][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.13-00.11.41:229][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.13-00.11.41:242][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.13-00.11.41:254][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.13-00.11.41:267][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.13-00.11.41:279][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.13-00.11.41:291][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.13-00.11.41:304][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.13-00.11.41:309][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:381][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.13-00.11.41:383][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.13-00.11.41:442][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.13-00.11.41:442][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.13-00.11.41:464][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.13-00.11.41:464][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.13-00.11.41:476][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.13-00.11.41:488][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.13-00.11.41:501][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.13-00.11.41:513][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.13-00.11.41:565][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.13-00.11.41:565][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.13-00.11.41:565][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.13-00.11.41:611][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../Game Development/Game Trench Warfare/Trench-Warfare/Intermediate/Shaders/WorkingDirectory/15264/).
+[2019.01.13-00.11.41:611][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Filip/AppData/Local/Temp/UnrealShaderWorkingDir/DF07E1544790CAB6BD040CA65C7EB08C/'.
+[2019.01.13-00.11.41:612][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.13-00.11.41:612][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.13-00.11.41:612][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.13-00.11.42:102][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.13-00.11.42:145][  0]LogDerivedDataCache: Loaded boot cache 0.04s 83MB C:/Users/Filip/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.13-00.11.42:145][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Filip/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.13-00.11.42:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game Development/Game Trench Warfare/Trench-Warfare/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.13-00.11.42:145][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.13-00.11.42:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Game Development/Game Trench Warfare/Trench-Warfare/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.13-00.11.42:145][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.13-00.11.42:156][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.13-00.11.42:159][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.01.13-00.11.42:173][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Filip/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.13-00.11.42:173][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.13-00.11.42:173][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.13-00.11.42:192][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.13-00.11.42:194][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.13-00.11.42:194][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.13-00.11.42:270][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2019.01.13-00.11.42:547][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.13-00.11.42:687][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.13-00.11.42:690][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.13-00.11.42:690][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.13-00.11.42:690][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.13-00.11.42:690][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.13-00.11.42:701][  0]LogNetVersion: TrenchWarfare 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1788843687)
+[2019.01.13-00.11.43:457][  0]LogPackageLocalizationCache: Processed 32 localized package path(s) for 2 prioritized culture(s) in 0.350700 seconds
+[2019.01.13-00.11.43:463][  0]LogUObjectArray: 39828 objects as part of root set at end of initial load.
+[2019.01.13-00.11.43:463][  0]LogUObjectAllocator: 6925912 out of 0 bytes used by permanent object pool.
+[2019.01.13-00.11.43:464][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.13-00.11.44:497][  0]LogCarSim: CarSim Module starting...
+[2019.01.13-00.11.45:147][  0]LogCarSim: Working dir: D:\UE4\UE_4.21\Engine\Binaries\Win64
+[2019.01.13-00.11.45:147][  0]LogCarSim: VS Prog dir: D:/UE4/UE_4.21/Engine/Plugins/Marketplace/CarSim/ThirdParty/VehicleSim/Prog
+[2019.01.13-00.11.45:147][  0]LogCarSim: VS Data dir: D:/UE4/UE_4.21/Engine/Plugins/Marketplace/CarSim/ThirdParty/VehicleSim/Data
+[2019.01.13-00.11.45:147][  0]LogCarSim: VS Connect dir: D:/UE4/UE_4.21/Engine/Plugins/Marketplace/CarSim/ThirdParty/vs_connect
+[2019.01.13-00.11.45:147][  0]LogCarSim: User Output dir: C:/Users/Filip/AppData/Local/UnrealEngine/Common/CarSim_plugin
+[2019.01.13-00.11.45:153][  0]LogCarSim: VscLib initializing.
+[2019.01.13-00.11.45:222][  0]LogCarSim: VscLib successfully initialized.
+[2019.01.13-00.11.45:222][  0]LogCarSim: CarSimMovementComponent Initiating static initialization.
+[2019.01.13-00.11.45:222][  0]LogCarSim: Initializing VS Wrapper: D:/UE4/UE_4.21/Engine/Plugins/Marketplace/CarSim/ThirdParty/vs_vehicle/build/x64/Release/vs_vehicle.dll
+[2019.01.13-00.11.45:235][  0]LogCarSim: CarSim Movement Component successfully initialized.
+[2019.01.13-00.11.45:356][  0]LogFactions: Factions: Log Started
+[2019.01.13-00.11.45:377][  0]LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics Constructor
+[2019.01.13-00.11.46:199][  0]LogTemp: Warning: SaveExtension: Initializing Plugin.
+[2019.01.13-00.11.46:343][  0]LogTemp: Warning: {S}:: Initializing Secure-Client Plugin [Anti-Cheat].
+[2019.01.13-00.11.46:432][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2019.01.13-00.11.46:702][  0]JavascriptCmd: Unreal.js started. V8 6.1.534
+[2019.01.13-00.11.46:893][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.13-00.11.46:909][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.13-00.11.47:589][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_TM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.13-00.11.53:307][  0]SourceControl: Source control is disabled
+[2019.01.13-00.11.54:629][  0]LogCuteCodeAccessor: Error: Qt Creator not found
+[2019.01.13-00.11.54:862][  0]LogTemp: Player is not running
+[2019.01.13-00.11.54:863][  0]LogTemp: Player is not Installed
+[2019.01.13-00.11.56:238][  0]LogLinker: Warning: Asset '../../Plugins/Marketplace/KantanCharts/Content/Style/SeriesStyles/PointStyles/PS_X.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.13-00.11.56:326][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/KantanCharts/Resources/KInstallation/Icons/pluginlogo.png' error.
+[2019.01.13-00.11.56:326][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/KantanCharts/Resources/KInstallation/Icons/pluginlogo.png
+[2019.01.13-00.11.57:240][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/KantanCharts/Resources/KInstallation/Icons/pluginlogo.png' error.
+[2019.01.13-00.11.57:240][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/KantanCharts/Resources/KInstallation/Icons/pluginlogo.png
+[2019.01.13-00.11.57:851][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/KantanCharts/Resources/KInstallation/Icons/pluginlogo.png' error.
+[2019.01.13-00.11.57:851][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/KantanCharts/Resources/KInstallation/Icons/pluginlogo.png
+[2019.01.13-00.11.58:012][  0]LogSpiderNavigation: Hi from Spider Navigation
+[2019.01.13-00.11.58:038][  0]StomtInit: Config-Folder: C:/Users/Filip/AppData/Local/UnrealEngine/4.21/Saved/Config/stomt/
+[2019.01.13-00.11.58:041][  0]StomtInit: Subscribed: false
+[2019.01.13-00.11.58:041][  0]StomtInit: LoggedIn: false
+[2019.01.13-00.11.58:041][  0]StomtInit: Saved Offline Stomts: 0
+[2019.01.13-00.11.58:041][  0]StomtInit: Constuct Stomt SDK Track
+[2019.01.13-00.11.58:041][  0]StomtInit: DevicePlatform: Windows
+[2019.01.13-00.11.58:042][  0]StomtInit: DeviceID: GenericComputer
+[2019.01.13-00.11.58:042][  0]StomtInit: SDKType: UnrealEngine4.21.1-4613538+++UE4+Release-4.21
+[2019.01.13-00.11.58:042][  0]StomtInit: SDKVersion: 2.3.0
+[2019.01.13-00.11.58:042][  0]StomtInit: SDKIntegration: TrenchWarfare
+[2019.01.13-00.11.58:042][  0]StomtInit: Constuct Stomt SDK Track
+[2019.01.13-00.11.58:042][  0]StomtInit: DevicePlatform: Windows
+[2019.01.13-00.11.58:042][  0]StomtInit: DeviceID: GenericComputer
+[2019.01.13-00.11.58:042][  0]StomtInit: SDKType: UnrealEngine4.21.1-4613538+++UE4+Release-4.21
+[2019.01.13-00.11.58:042][  0]StomtInit: SDKVersion: 2.3.0
+[2019.01.13-00.11.58:042][  0]StomtInit: SDKIntegration: TrenchWarfare
+[2019.01.13-00.11.58:141][  0]LogMaterial: Uniform references updated for custom material expression Ambient Cubemap Tint.
+[2019.01.13-00.11.58:596][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.13-00.11.58:648][  0]LogOcInput: OculusInput pre-init called
+[2019.01.13-00.11.59:430][  0]LogClass: Warning: FDoNNavigationQueryData::Origin is not initialized properly
+[2019.01.13-00.11.59:431][  0]LogClass: Warning: FDoNNavigationQueryData::Destination is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: ObjectProperty FDrawnGestures::SplineComponent is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: FSpiderNavNode::Normal is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FTwitchSubscription::is_gift is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FTwitchChannel::mature is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FTwitchChannel::partner is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: FTwitchChannel::views is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: FTwitchChannel::followers is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FTwitchFollow::notifications is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: FTwitchError::status is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FTwitchUser::email_verified is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FTwitchUser::partnered is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FTwitchUser::twitter_connected is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FTwitchUserNotifications::push is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FTwitchUserNotifications::email is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: FJavascriptConnectionParams::WireColor is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: FJavascriptConnectionParams::WireThickness is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FJavascriptConnectionParams::bDrawBubbles is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FJavascriptConnectionParams::bUserFlag1 is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: BoolProperty FJavascriptConnectionParams::bUserFlag2 is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: FJavascriptConnectionParams::StartDirection is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: FJavascriptConnectionParams::EndDirection is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: ObjectProperty FJavascriptGraphAction_NewNode::Schema is not initialized properly
+[2019.01.13-00.11.59:432][  0]LogClass: Warning: FJavascriptAssetData::PackageFlags is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogClass: Display: 25 Uninitialized script stuct members found
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FDoNNavigationQueryData::Origin is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FDoNNavigationQueryData::Destination is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: ObjectProperty FDrawnGestures::SplineComponent is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FSpiderNavNode::Normal is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FTwitchSubscription::is_gift is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FTwitchChannel::mature is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FTwitchChannel::partner is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FTwitchChannel::views is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FTwitchChannel::followers is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FTwitchFollow::notifications is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FTwitchError::status is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FTwitchUser::email_verified is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FTwitchUser::partnered is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FTwitchUser::twitter_connected is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FTwitchUserNotifications::push is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FTwitchUserNotifications::email is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FJavascriptConnectionParams::WireColor is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FJavascriptConnectionParams::WireThickness is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FJavascriptConnectionParams::bDrawBubbles is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FJavascriptConnectionParams::bUserFlag1 is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: BoolProperty FJavascriptConnectionParams::bUserFlag2 is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FJavascriptConnectionParams::StartDirection is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FJavascriptConnectionParams::EndDirection is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: ObjectProperty FJavascriptGraphAction_NewNode::Schema is not initialized properly
+[2019.01.13-00.11.59:433][  0]LogAutomationTest: Warning: FJavascriptAssetData::PackageFlags is not initialized properly
+[2019.01.13-00.11.59:443][  0]LogEngine: Initializing Engine...
+[2019.01.13-00.11.59:444][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.13-00.11.59:445][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.13-00.11.59:445][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.13-00.11.59:445][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.13-00.11.59:445][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.13-00.11.59:691][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.13-00.11.59:700][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.13-00.11.59:700][  0]LogCarSim: VS Connect N:0 L:0 C:0 Initializing.
+[2019.01.13-00.12.01:625][  0]LogCarSim: VS Connect successfully initialized.
+[2019.01.13-00.12.01:634][  0]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.13-00.12.01:655][  0]LogInit: FAudioDevice initialized.
+[2019.01.13-00.12.01:656][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.13-00.12.01:754][  0]LogDerivedDataCache: Saved boot cache 0.10s 83MB C:/Users/Filip/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.13-00.12.01:764][  0]LogInit: Texture streaming: Enabled
+[2019.01.13-00.12.01:779][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.13-00.12.01:789][  0]LogInit: Transaction tracking system initialized
+[2019.01.13-00.12.01:805][  0]BlueprintLog: New page: Editor Load
+[2019.01.13-00.12.01:868][  0]LocalizationService: Localization service is disabled
+[2019.01.13-00.12.02:339][  0]LogFileCache: Scanning file cache for directory 'D:/Game Development/Game Trench Warfare/Trench-Warfare/Content/' took 0.02s
+[2019.01.13-00.12.02:340][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.13-00.12.02:340][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.13-00.12.02:340][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.13-00.12.02:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.13-00.12.02:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.13-00.12.02:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.13-00.12.02:340][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.13-00.12.03:456][  0]ImportText (Extent): Missing opening parenthesis: 1.000000,1.000000,1.000000
+[2019.01.13-00.12.03:464][  0]ImportText (Scale): Missing opening parenthesis: 1.000000,1.000000,1.000000
+[2019.01.13-00.12.03:464][  0]ImportText (Scale): Missing opening parenthesis: 1.000000,1.000000,1.000000
+[2019.01.13-00.12.03:464][  0]ImportText (Rotation): Missing opening parenthesis: -90.000000,0.000000,0.000000
+[2019.01.13-00.12.03:465][  0]ImportText (Cell): Missing opening parenthesis: 0.000000,0.000000,0.000000
+[2019.01.13-00.12.03:465][  0]ImportText (Seed): Missing opening parenthesis: 0.000000,0.000000,0.000000
+[2019.01.13-00.12.03:465][  0]ImportText (PreviousValue): Missing opening parenthesis: 0.000000,0.000000,0.000000
+[2019.01.13-00.12.03:466][  0]ImportText (B): Missing opening parenthesis: 1.000000,1.000000,1.000000
+[2019.01.13-00.12.03:469][  0]ImportText (YAxis): Missing opening parenthesis: 0.000000,1.000000,0.000000
+[2019.01.13-00.12.03:469][  0]ImportText (ZAxis): Missing opening parenthesis: 0.000000,0.000000,1.000000
+[2019.01.13-00.12.03:489][  0]ImportText (CapsuleRelativeLocation): Missing opening parenthesis: 0.000000,0.000000,-110.000000
+[2019.01.13-00.12.03:489][  0]ImportText (SceneLocation): Missing opening parenthesis: 0.000000,0.000000,-110.000000
+[2019.01.13-00.12.03:489][  0]ImportText (LeftControllerLocation): Missing opening parenthesis: 0.000000,0.000000,110.000000
+[2019.01.13-00.12.03:489][  0]ImportText (RightControllerLocation): Missing opening parenthesis: 0.000000,0.000000,110.000000
+[2019.01.13-00.12.03:489][  0]ImportText (DistanceToScaleUpXYZ): Missing opening parenthesis: 112.000000,0.000000,0.000000
+[2019.01.13-00.12.03:489][  0]ImportText (RateXYZ): Missing opening parenthesis: 1.500000,0.000000,0.000000
+[2019.01.13-00.12.03:489][  0]ImportText (Target_Location): Missing opening parenthesis: 0.000000,0.000000,0.000000
+[2019.01.13-00.12.03:489][  0]ImportText (DistanceToScaleDownXYZ): Missing opening parenthesis: 112.000000,0.000000,0.000000
+[2019.01.13-00.12.03:489][  0]ImportText (RateXYZ): Missing opening parenthesis: 1.500000,0.000000,0.000000
+[2019.01.13-00.12.03:971][  0]LogFactionsEditor: FactionsEditor: Log Started
+[2019.01.13-00.12.04:901][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/KantanCharts/Resources/KInstallation/Icons/pluginlogo.png' error.
+[2019.01.13-00.12.04:901][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/KantanCharts/Resources/KInstallation/Icons/pluginlogo.png
+[2019.01.13-00.12.05:106][  0]Cmd: MAP LOAD FILE="../../../../../Game Development/Game Trench Warfare/Trench-Warfare/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.13-00.12.05:175][  0]LightingResults: New page: Lighting Build
+[2019.01.13-00.12.05:178][  0]MapCheck: New page: Map Check
+[2019.01.13-00.12.05:178][  0]LightingResults: New page: Lighting Build
+[2019.01.13-00.12.06:648][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.13-00.12.06:656][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.13-00.12.06:879][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.13-00.12.06:880][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.224ms to complete.
+[2019.01.13-00.12.06:880][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.775
+[2019.01.13-00.12.06:973][  0]ModoBridge: Starting Extension logic
+[2019.01.13-00.12.07:027][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-00.12.07:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-00.12.07:041][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-00.12.07:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-00.12.07:386][  0]LogCollectionManager: Loaded 0 collections in 0.018539 seconds
+[2019.01.13-00.12.07:414][  0]LogFileCache: Scanning file cache for directory 'D:/Game Development/Game Trench Warfare/Trench-Warfare/Saved/Collections/' took 0.01s
+[2019.01.13-00.12.07:414][  0]LogFileCache: Scanning file cache for directory 'D:/Game Development/Game Trench Warfare/Trench-Warfare/Content/Developers/Filip/Collections/' took 0.00s
+[2019.01.13-00.12.07:414][  0]LogFileCache: Scanning file cache for directory 'D:/Game Development/Game Trench Warfare/Trench-Warfare/Content/Collections/' took 0.01s
+[2019.01.13-00.12.07:414][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.13-00.12.07:424][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3030 classes and 839 folders.
+[2019.01.13-00.12.07:429][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.13-00.12.07:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:528][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:561][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:565][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:569][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:608][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:711][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.07:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.13-00.12.08:269][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.13-00.12.08:275][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.13-00.12.08:279][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.13-00.12.08:390][  0]LogRenderer: Reallocating scene render targets to support 1528x924 Format 10 NumSamples 1 (Frame:1).
+[2019.01.13-00.12.08:578][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.13-00.12.08:578][  0]LogLoad: (Engine Initialization) Total time: 31.47 seconds
+[2019.01.13-00.12.08:578][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.13-00.12.08:588][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.13-00.12.08:646][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.13-00.12.08:662][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2019.01.13-00.12.08:766][  2]LogAssetRegistry: Asset discovery search completed in 26.5191 seconds
+[2019.01.13-00.12.08:768][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.13-00.12.08:768][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2019.01.13-00.12.10:878][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-00.12.12:689][453]LogSlate: Took 0.013451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.13-00.12.14:831][686]Cmd: MAP LOAD FILE="../../../../../Game Development/Game Trench Warfare/Trench-Warfare/Content/Maps/Trench-Warfare-Alpha-Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.13-00.12.14:834][686]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.13-00.12.14:844][686]LightingResults: New page: Lighting Build
+[2019.01.13-00.12.14:844][686]LoadErrors: New page: Loading map: Trench-Warfare-Alpha-Map.umap
+[2019.01.13-00.12.14:846][686]MapCheck: New page: Map Check
+[2019.01.13-00.12.14:846][686]LightingResults: New page: Lighting Build
+[2019.01.13-00.12.15:415][686]LogAIModule: Creating AISystem for world Trench-Warfare-Alpha-Map
+[2019.01.13-00.12.16:357][686]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.13-00.12.16:595][686]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.13-00.12.16:595][686]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2019.01.13-00.12.16:595][686]LogFileHelpers: Loading map 'Trench-Warfare-Alpha-Map' took 1.764
+[2019.01.13-00.12.16:596][686]LogSlate: Window 'Open Level' being destroyed
+[2019.01.13-00.13.08:893][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-00.13.09:572][928]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.01.13-00.13.18:916][ 23]Cmd: TRANSACTION UNDO
+[2019.01.13-00.13.18:916][ 23]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.01.13-00.13.20:301][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.13-00.13.41:805][758]Cmd: TRANSACTION UNDO
+[2019.01.13-00.13.41:805][758]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.01.13-00.13.41:822][758]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 256X512)
+[2019.01.13-00.14.07:834][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-00.14.07:909][883]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.13-00.14.07:925][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel.Trench-Warfare-Alpha-Map' with GeneratedClass '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map_C' with ClassGeneratedBy '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel.Trench-Warfare-Alpha-Map'
+[2019.01.13-00.14.07:926][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.13-00.14.07:926][883]PIE: New page: PIE session: Trench-Warfare-Alpha-Map (13 Jan 2019 02:14:07)
+[2019.01.13-00.14.07:940][883]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Trench-Warfare-Alpha-Map
+[2019.01.13-00.14.07:972][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031640s)
+[2019.01.13-00.14.07:972][883]LogAIModule: Creating AISystem for world Trench-Warfare-Alpha-Map
+[2019.01.13-00.14.07:972][883]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2019.01.13-00.14.07:972][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map to /Game/Maps/UEDPIE_0_Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map (0.032435s)
+[2019.01.13-00.14.08:215][883]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.13-00.14.08:231][883]LogInit: FAudioDevice initialized.
+[2019.01.13-00.14.08:277][883]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.13-00.14.08:283][883]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map up for play (max tick rate 0) at 2019.01.13-01.14.08
+[2019.01.13-00.14.08:284][883]LogWorld: Bringing up level for play took: 0.005514
+[2019.01.13-00.14.08:304][883]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.01.13-00.14.08:307][883]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Trench-Warfare-Alpha-Map 0.226
+[2019.01.13-00.14.08:307][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel.Trench-Warfare-Alpha-Map' with GeneratedClass '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map_C' with ClassGeneratedBy '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel.Trench-Warfare-Alpha-Map'
+[2019.01.13-00.14.46:067][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel.Trench-Warfare-Alpha-Map' with GeneratedClass '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map_C' with ClassGeneratedBy '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel.Trench-Warfare-Alpha-Map'
+[2019.01.13-00.14.46:067][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-00.14.46:106][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.13-00.14.46:107][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel.Trench-Warfare-Alpha-Map' with GeneratedClass '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map_C' with ClassGeneratedBy '/Game/Maps/Trench-Warfare-Alpha-Map.Trench-Warfare-Alpha-Map:PersistentLevel.Trench-Warfare-Alpha-Map'
+[2019.01.13-00.14.46:322][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-00.14.46:352][412]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.01.13-00.14.53:998][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.13-00.14.55:255][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.13-00.14.55:352][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.13-00.14.55:390][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.13-00.15.02:468][280]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 256X512)
+[2019.01.13-00.15.02:913][280]LogSavePackage: Moving '../../../../../Game Development/Game Trench Warfare/Trench-Warfare/Saved/Trench-Warfare-Alpha-Map3387632248E359A383B9919532F89824.tmp' to '../../../../../Game Development/Game Trench Warfare/Trench-Warfare/Content/Maps/Trench-Warfare-Alpha-Map.umap'
+[2019.01.13-00.15.02:944][280]LogFileHelpers: Saving map 'Trench-Warfare-Alpha-Map' took 0.791
+[2019.01.13-00.15.07:534][826]SourceControl: fatal: D:/UE4/UE_4.21/Engine/Content: 'D:/UE4/UE_4.21/Engine/Content' is outside repository
+[2019.01.13-00.15.07:637][826]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../Game Development/Game Trench Warfare/Trench-Warfare/TrenchWarfare.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.01.13-00.15.07:637][826]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.13-00.15.11:950][826]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.313 s
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: 
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 846]
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../Game Development/Game Trench Warfare/Trench-Warfare/TrenchWarfare.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: Stack: 
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffec7aed617 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffeb5f08775 UE4Editor-SourceControl.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffeb5f08909 UE4Editor-SourceControl.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffeb39d633d UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffeb39886fe UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffeb3987c8f UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffeb39a2601 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffea4c0f4ec UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffea4c14e61 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffeb5f0eb57 UE4Editor-SourceControl.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffeb901274e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ffeb9932216 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ff779546225 UE4Editor.exe!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ff77955596c UE4Editor.exe!UnknownFunction []
+[2019.01.13-00.15.11:950][826]LogOutputDevice: Error: [Callstack] 0x00007ff7795559ea UE4Editor.exe!UnknownFunction []
+[2019.01.13-00.15.11:951][826]LogOutputDevice: Error: [Callstack] 0x00007ff7795648da UE4Editor.exe!UnknownFunction []
+[2019.01.13-00.15.11:951][826]LogOutputDevice: Error: [Callstack] 0x00007ff77956659a UE4Editor.exe!UnknownFunction []
+[2019.01.13-00.15.11:951][826]LogOutputDevice: Error: [Callstack] 0x00007fff16103034 KERNEL32.DLL!UnknownFunction []
+[2019.01.13-00.15.11:951][826]LogOutputDevice: Error: [Callstack] 0x00007fff18883691 ntdll.dll!UnknownFunction []
+[2019.01.13-00.15.11:951][826]LogOutputDevice: Error: 
+[2019.01.13-00.15.11:953][826]LogStats:                SubmitErrorReport -  0.000 s
