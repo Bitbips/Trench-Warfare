@@ -2933,7 +2933,7 @@ declare class RunebergVR_Pawn extends Pawn {
 	static GetDefaultObject(): RunebergVR_Pawn;
 	static CreateDefaultSubobject(Name: string, Transient?: boolean, Required?: boolean, Abstract?: boolean): RunebergVR_Pawn;
 	RotatePawn(RotationRate: number,XAxisInput: number,YAxisInput: number): void;
-	PrintDebugMessage(message: string,OverwriteExisting: boolean,Duration: number,Color: Color): void;
+	PrintDebugMessage(Message: string,OverwriteExisting: boolean,Duration: number,Color: Color): void;
 	OverridePawnValues(PawnBaseEyeHeight: number,FOV: number,CapsuleHalfHeight: number,CapsuleRadius: number,CapsuleRelativeLocation: Vector,SceneLocation: Vector,LeftControllerLocation: Vector,RightControllerLocation: Vector): void;
 	IsHMDWorn(): boolean;
 	static C(Other: UObject | any): RunebergVR_Pawn;
@@ -3305,7 +3305,7 @@ declare class StomtAPI extends UObject {
 }
 
 declare class StomtPluginWidget extends UserWidget { 
-	message: string;
+	Message: string;
 	EMail: string;
 	UserName: string;
 	UserPassword: string;
@@ -3622,7 +3622,7 @@ declare class TwitchUser extends TwitchChannelUser {
 declare class TwitchError { 
 	Error: string;
 	status: number;
-	message: string;
+	Message: string;
 	clone() : TwitchError;
 	static C(Other: UObject | any): TwitchError;
 }
@@ -4521,7 +4521,7 @@ declare class JavascriptGraphMenuBuilder extends JavascriptMenuBuilder {
 declare type ECanCreateConnectionResponse = 'CONNECT_RESPONSE_MAKE' | 'CONNECT_RESPONSE_DISALLOW' | 'CONNECT_RESPONSE_BREAK_OTHERS_A' | 'CONNECT_RESPONSE_BREAK_OTHERS_B' | 'CONNECT_RESPONSE_BREAK_OTHERS_AB' | 'CONNECT_RESPONSE_MAKE_WITH_CONVERSION_NODE' | 'CONNECT_RESPONSE_MAX';
 declare var ECanCreateConnectionResponse : { CONNECT_RESPONSE_MAKE:'CONNECT_RESPONSE_MAKE',CONNECT_RESPONSE_DISALLOW:'CONNECT_RESPONSE_DISALLOW',CONNECT_RESPONSE_BREAK_OTHERS_A:'CONNECT_RESPONSE_BREAK_OTHERS_A',CONNECT_RESPONSE_BREAK_OTHERS_B:'CONNECT_RESPONSE_BREAK_OTHERS_B',CONNECT_RESPONSE_BREAK_OTHERS_AB:'CONNECT_RESPONSE_BREAK_OTHERS_AB',CONNECT_RESPONSE_MAKE_WITH_CONVERSION_NODE:'CONNECT_RESPONSE_MAKE_WITH_CONVERSION_NODE',CONNECT_RESPONSE_MAX:'CONNECT_RESPONSE_MAX', };
 declare class JavascriptPinConnectionResponse { 
-	message: string;
+	Message: string;
 	Response: ECanCreateConnectionResponse;
 	clone() : JavascriptPinConnectionResponse;
 	static C(Other: UObject | any): JavascriptPinConnectionResponse;
