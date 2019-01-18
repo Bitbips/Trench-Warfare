@@ -6187,23 +6187,23 @@ declare class FunctionalTest extends Actor {
 	ReceivePrepareTest(): void;
 	OnWantsReRunCheck(): boolean;
 	OnAdditionalTestFinishedMessageRequest(TestResult: EFunctionalTestResult): string;
-	LogMessage(Message: string): void;
+	LogMessage(message: string): void;
 	IsRunning(): boolean;
 	IsReady(): boolean;
 	IsEnabled(): boolean;
 	GetCurrentRerunReason(): string;
-	FinishTest(TestResult: EFunctionalTestResult,Message: string): void;
+	FinishTest(TestResult: EFunctionalTestResult,message: string): void;
 	DebugGatherRelevantActors(): Actor[];
 	AssertValue_Int(Actual: number,ShouldBe: EComparisonMethod,Expected: number,What: string,ContextObject: UObject): boolean;
 	AssertValue_Float(Actual: number,ShouldBe: EComparisonMethod,Expected: number,What: string,ContextObject: UObject): boolean;
 	AssertValue_DateTime(Actual: DateTime,ShouldBe: EComparisonMethod,Expected: DateTime,What: string,ContextObject: UObject): boolean;
-	AssertTrue(Condition: boolean,Message: string,ContextObject: UObject): boolean;
+	AssertTrue(Condition: boolean,message: string,ContextObject: UObject): boolean;
 	AssertNotEqual_Vector(Actual: Vector,NotExpected: Vector,What: string,ContextObject: UObject): boolean;
 	AssertNotEqual_Transform(Actual: Transform,NotExpected: Transform,What: string,ContextObject: UObject): boolean;
 	AssertNotEqual_String(Actual: string,NotExpected: string,What: string,ContextObject: UObject): boolean;
 	AssertNotEqual_Rotator(Actual: Rotator,NotExpected: Rotator,What: string,ContextObject: UObject): boolean;
-	AssertIsValid(UObject: UObject,Message: string,ContextObject: UObject): boolean;
-	AssertFalse(Condition: boolean,Message: string,ContextObject: UObject): boolean;
+	AssertIsValid(UObject: UObject,message: string,ContextObject: UObject): boolean;
+	AssertFalse(Condition: boolean,message: string,ContextObject: UObject): boolean;
 	AssertEqual_Vector(Actual: Vector,Expected: Vector,What: string,Tolerance: number,ContextObject: UObject): boolean;
 	AssertEqual_Transform(Actual: Transform,Expected: Transform,What: string,Tolerance: number,ContextObject: UObject): boolean;
 	AssertEqual_TraceQueryResults(Actual: TraceQueryTestResults,Expected: TraceQueryTestResults,What: string,ContextObject: UObject): boolean;
@@ -6213,9 +6213,9 @@ declare class FunctionalTest extends Actor {
 	AssertEqual_Int(Actual: number,Expected: number,What: string,ContextObject: UObject): boolean;
 	AssertEqual_Float(Actual: number,Expected: number,What: string,Tolerance: number,ContextObject: UObject): boolean;
 	AssertEqual_Bool(Actual: boolean,Expected: boolean,What: string,ContextObject: UObject): boolean;
-	AddWarning(Message: string): void;
+	AddWarning(message: string): void;
 	AddRerun(Reason: string): void;
-	AddError(Message: string): void;
+	AddError(message: string): void;
 	static C(Other: UObject | any): FunctionalTest;
 }
 
@@ -8851,7 +8851,7 @@ declare class GameAnalytics extends UObject {
 	static AddProgressionEventWithOneAndTwo(ProgressionStatus: EGAProgressionStatus,Progression01: string,Progression02: string): void;
 	static AddProgressionEventWithOneAndScore(ProgressionStatus: EGAProgressionStatus,Progression01: string,Score: number): void;
 	static AddProgressionEventWithOne(ProgressionStatus: EGAProgressionStatus,Progression01: string): void;
-	static AddErrorEvent(Severity: EGAErrorSeverity,Message: string): void;
+	static AddErrorEvent(Severity: EGAErrorSeverity,message: string): void;
 	static AddDesignEventWithValue(EventId: string,Value: number): void;
 	static AddDesignEvent(EventId: string): void;
 	static AddBusinessEventIOS(Currency: string,Amount: number,ItemType: string,ItemId: string,CartType: string,Receipt: string): void;
@@ -10299,7 +10299,7 @@ declare class MultiplayerEmptyResponse {
 declare type ETitleMultiplayerServerEnabledStatus = 'pfenum_Initializing' | 'pfenum_Enabled' | 'pfenum_Disabled' | 'pfenum_MAX';
 declare var ETitleMultiplayerServerEnabledStatus : { pfenum_Initializing:'pfenum_Initializing',pfenum_Enabled:'pfenum_Enabled',pfenum_Disabled:'pfenum_Disabled',pfenum_MAX:'pfenum_MAX', };
 declare class MultiplayerEnableMultiplayerServersForTitleResponse { 
-	Status: ETitleMultiplayerServerEnabledStatus;
+	status: ETitleMultiplayerServerEnabledStatus;
 	clone() : MultiplayerEnableMultiplayerServersForTitleResponse;
 	static C(Other: UObject | any): MultiplayerEnableMultiplayerServersForTitleResponse;
 }
@@ -10364,7 +10364,7 @@ declare class MultiplayerGetRemoteLoginEndpointResponse {
 }
 
 declare class MultiplayerGetTitleEnabledForMultiplayerServersStatusResponse { 
-	Status: ETitleMultiplayerServerEnabledStatus;
+	status: ETitleMultiplayerServerEnabledStatus;
 	clone() : MultiplayerGetTitleEnabledForMultiplayerServersStatusResponse;
 	static C(Other: UObject | any): MultiplayerGetTitleEnabledForMultiplayerServersStatusResponse;
 }
@@ -11218,7 +11218,7 @@ declare class ClientMatchmakeResult {
 	ServerIPV6Address: string;
 	ServerPort: number;
 	ServerPublicDNSName: string;
-	Status: EMatchmakeStatus;
+	status: EMatchmakeStatus;
 	Ticket: string;
 	clone() : ClientMatchmakeResult;
 	static C(Other: UObject | any): ClientMatchmakeResult;
@@ -11249,7 +11249,7 @@ declare class ClientPayForPurchaseResult {
 	PurchaseConfirmationPageURL: string;
 	PurchaseCurrency: string;
 	PurchasePrice: number;
-	Status: ETransactionStatus;
+	status: ETransactionStatus;
 	VCAmount: PlayFabJsonObject;
 	VirtualCurrency: PlayFabJsonObject;
 	clone() : ClientPayForPurchaseResult;
@@ -11518,7 +11518,7 @@ declare class AdminAddServerBuildResult {
 	ExecutablePath: string;
 	MaxGamesPerHost: number;
 	MinFreeGameSlots: number;
-	Status: EGameBuildStatus;
+	status: EGameBuildStatus;
 	Timestamp: string;
 	TitleId: string;
 	clone() : AdminAddServerBuildResult;
@@ -11768,7 +11768,7 @@ declare class AdminGetServerBuildInfoResult {
 	ErrorMessage: string;
 	MaxGamesPerHost: number;
 	MinFreeGameSlots: number;
-	Status: EGameBuildStatus;
+	status: EGameBuildStatus;
 	Timestamp: string;
 	TitleId: string;
 	clone() : AdminGetServerBuildInfoResult;
@@ -11880,7 +11880,7 @@ declare class AdminModifyServerBuildResult {
 	ExecutablePath: string;
 	MaxGamesPerHost: number;
 	MinFreeGameSlots: number;
-	Status: EGameBuildStatus;
+	status: EGameBuildStatus;
 	Timestamp: string;
 	TitleId: string;
 	clone() : AdminModifyServerBuildResult;
@@ -15710,10 +15710,10 @@ declare class JavascriptLogCategory {
 	static C(Other: UObject | any): JavascriptLogCategory;
 	GetCategoryName(): string;
 	IsSuppressed(Verbosity: ELogVerbosity_JS): boolean;
-	Log(Verbosity: ELogVerbosity_JS,Message: string,Filename: string,LineNumber: number): void;
+	Log(Verbosity: ELogVerbosity_JS,message: string,Filename: string,LineNumber: number): void;
 	static GetCategoryName(Category: JavascriptLogCategory): string;
 	static IsSuppressed(Category: JavascriptLogCategory,Verbosity: ELogVerbosity_JS): boolean;
-	static Log(Category: JavascriptLogCategory,Verbosity: ELogVerbosity_JS,Message: string,Filename: string,LineNumber: number): void;
+	static Log(Category: JavascriptLogCategory,Verbosity: ELogVerbosity_JS,message: string,Filename: string,LineNumber: number): void;
 	static CreateLogCategory(CategoryName: string,InDefaultVerbosity: ELogVerbosity_JS): JavascriptLogCategory;
 }
 
@@ -15793,7 +15793,7 @@ declare class JavascriptLibrary extends BlueprintFunctionLibrary {
 	static NewStat(InStatName: string,InStatDesc: string,InGroupName: string,InGroupCategory: string,InGroupDesc: string,bDefaultEnable: boolean,bShouldClearEveryFrame: boolean,InStatType: EJavascriptStatDataType,bCycleStat: boolean,bSortByName: boolean): JavascriptStat;
 	static MarkRenderStateDirty(Component: ActorComponent): void;
 	static MakeDirectory(Path: string,Tree: boolean): boolean;
-	static Log(Category: JavascriptLogCategory,Verbosity: ELogVerbosity_JS,Message: string,Filename: string,LineNumber: number): void;
+	static Log(Category: JavascriptLogCategory,Verbosity: ELogVerbosity_JS,message: string,Filename: string,LineNumber: number): void;
 	static LoadPackage(InOuter: Package,PackageName: string): Package;
 	static IsSuppressed(Category: JavascriptLogCategory,Verbosity: ELogVerbosity_JS): boolean;
 	static IsRegistered(ActorComponent: ActorComponent): boolean;
@@ -15902,8 +15902,8 @@ declare class JavascriptOutputDevice extends UObject {
 	static Find(Outer: UObject, ResourceName: string): JavascriptOutputDevice;
 	static GetDefaultObject(): JavascriptOutputDevice;
 	static CreateDefaultSubobject(Name: string, Transient?: boolean, Required?: boolean, Abstract?: boolean): JavascriptOutputDevice;
-	OnMessage(Message: string,Verbosity: ELogVerbosity_JS,Category: string): void;
-	static Log(Category: string,Verbosity: ELogVerbosity_JS,Filename: string,LineNumber: number,Message: string): void;
+	OnMessage(message: string,Verbosity: ELogVerbosity_JS,Category: string): void;
+	static Log(Category: string,Verbosity: ELogVerbosity_JS,Filename: string,LineNumber: number,message: string): void;
 	Kill(): void;
 	static C(Other: UObject | any): JavascriptOutputDevice;
 }
@@ -15913,7 +15913,7 @@ declare class JavascriptProcess extends UObject {
 	static Find(Outer: UObject, ResourceName: string): JavascriptProcess;
 	static GetDefaultObject(): JavascriptProcess;
 	static CreateDefaultSubobject(Name: string, Transient?: boolean, Required?: boolean, Abstract?: boolean): JavascriptProcess;
-	WriteToPipe(Message: string,OutWritten?: string): {OutWritten: string, $: boolean};
+	WriteToPipe(message: string,OutWritten?: string): {OutWritten: string, $: boolean};
 	Wait(): void;
 	Terminate(KillTree: boolean): void;
 	static Sleep(Seconds: number): void;
